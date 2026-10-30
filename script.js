@@ -5,29 +5,29 @@ let xp = 0;
 
 const questions = [
 {
-question: "Which planet has the most moons?",
-answers: ["Earth", "Mars", "Saturn", "Venus"],
-correct: "Saturn"
+question: "Who is Baseerat's Girlfriend?",
+answers: ["Me", "MOMO", "TEJAS", "DOMINATOR's SON"],
+correct: "ME"
 },
 {
-question: "What is the capital of Australia?",
-answers: ["Sydney", "Melbourne", "Canberra", "Perth"],
-correct: "Canberra"
+question: "What is Baseerat's doing rn?",
+answers: ["Studying", "Gooning", "Looking at you", "Busy with his gf"],
+correct: "Busy with his gf"
 },
 {
-question: "Which language is used to style websites?",
-answers: ["Python", "Java", "CSS", "C++"],
-correct: "CSS"
+question: "What does Baseerat Like?",
+answers: ["MOMO", "BLACK NIGGERS", "YOU", "GOONING"],
+correct: "MOMO"
 },
 {
-question: "How many continents are there?",
-answers: ["5", "6", "7", "8"],
-correct: "7"
+question: "How many gf's does baseerat have?",
+answers: ["1", "2", "5", "No fixed Number"],
+correct: "No fixed Number"
 },
 {
-question: "Who developed the theory of relativity?",
-answers: ["Newton", "Tesla", "Einstein", "Galileo"],
-correct: "Einstein"
+question: "Who is Chucky aka Tanya's Crush?",
+answers: ["Darsh aka BBG (Tanya Calls him)", "Rupak", "MOMO", "She's Bi"],
+correct: "Darsh aka BBG (Tanya Calls him)"
 }
 ];
 
